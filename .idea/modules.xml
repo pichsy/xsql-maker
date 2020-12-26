@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xsql-maker.iml" filepath="$PROJECT_DIR$/.idea/modules/xsql-maker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/xsql-maker.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/xsql-maker.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/processor/xsql-maker.processor.iml" filepath="$PROJECT_DIR$/.idea/modules/processor/xsql-maker.processor.iml" />
+    </modules>
+  </component>
+</project>

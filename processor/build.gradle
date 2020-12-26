@@ -1,0 +1,20 @@
+plugins {
+    id 'java-library'
+}
+apply plugin: 'com.github.dcendents.android-maven'
+group='com.github.pichsy'
+
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+}
+
+
+dependencies {
+//    implementation project(':xsql-annotation')
+    implementation "com.google.auto.service:auto-service:1.0-rc6"
+    annotationProcessor "com.google.auto.service:auto-service:1.0-rc6"
+    implementation 'com.squareup:javawriter:2.5.0'
+    implementation 'com.github.pichsy:xsql-base:1.0'
+}
