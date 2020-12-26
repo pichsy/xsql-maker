@@ -3,6 +3,7 @@
 #### 介绍
 XSql注解处理器<br>
 为xsql数据库自动生成数据库模型实体java类的映射关系类。
+最新版本 [![](https://jitpack.io/v/pichsy/xsql-maker.svg)](https://jitpack.io/#pichsy/xsql-maker)
 
     ```
       1. kotlin请使用
